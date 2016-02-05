@@ -1,6 +1,0 @@
-D:\Rana\POC\CodeExercise\FSLCodeExercise.Start\bin\Debug\FSLCodeExercise.Start.exe.config
-D:\Rana\POC\CodeExercise\FSLCodeExercise.Start\bin\Debug\FSLCodeExercise.Start.exe
-D:\Rana\POC\CodeExercise\FSLCodeExercise.Start\bin\Debug\FSLCodeExercise.Start.pdb
-D:\Rana\POC\CodeExercise\FSLCodeExercise.Start\obj\Debug\FSLCodeExercise.Start.csprojResolveAssemblyReference.cache
-D:\Rana\POC\CodeExercise\FSLCodeExercise.Start\obj\Debug\FSLCodeExercise.Start.exe
-D:\Rana\POC\CodeExercise\FSLCodeExercise.Start\obj\Debug\FSLCodeExercise.Start.pdb
