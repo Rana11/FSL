@@ -1,0 +1,7 @@
+/* Exercise 1:
+ * 1) Identify the most offensive code "smell":
+ * Lack of inheritance 
+ * Violating OCP
+ * 2) Identify potential problems that could be encountered in developing and/or maintaining a system that uses the code as it is written
+ * Very hard to maintain or extend
+ */
