@@ -41,23 +41,3 @@ namespace FSLCodeExercise.Start
         }
     }
 }
-
-
-/* Exercise 1:
- * 1) Identify the most offensive code "smell":
- * Lack of inheritance 
- * Violating OCP
-
- * 2) Identify potential problems that could be encountered in developing and/or maintaining a system that uses the code as it is written
- * Very hard to maintain or extend
- */
-
-
-/* Exercise 3:
- * 1) Describe why the refactored code is better than the previous code:
- * it is structured, cleaner, does not violate the OCP, easier to maintain, 
- * Follow some design patterns ex. Factory Pattern
- * 
- * 2) Describe what you would do if you had longer than 2 hours to complete these exercises.
- * I will write some unit tests
- */
